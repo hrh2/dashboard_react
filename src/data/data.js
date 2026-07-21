@@ -10,7 +10,7 @@ export const navigationLinks = [
     { id: 6, title: 'Reports', image: iconsImgs.report },
     { id: 7, title: 'Savings', image: iconsImgs.wallet },
     { id: 8, title: 'Financial Advice', image: iconsImgs.wealth },
-    { id: 9, title: 'Account', image: iconsImgs.user },
+    { id: 9, title: 'Account', image: iconsImgs.user,link:"users" },
     { id: 10, title: 'Settings', image: iconsImgs.gears }
 ];
 
